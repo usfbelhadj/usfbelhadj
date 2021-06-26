@@ -12,7 +12,7 @@ Hi, I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj-5393631a0/
 
 <br/>
 
-  <img align="right" alt="GIF" src="img/code.gif" width="700" height="320" />
+  <img align="right" alt="GIF" src="img/code.gif" width="500" height="320" />
 
 - 📝 [Here is my Curriculum Vitae](/Youssef_belhadj_CV.pdf)
 - 💼 Any freelance work? Do reach, [email](mailto:usf.belhadj@gmail.com) :)
