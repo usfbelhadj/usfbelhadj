@@ -12,7 +12,7 @@ Hi, I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj-5393631a0/
 
 <br/>
 
-  <img align="right" alt="GIF" src="img/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="img/code.gif" width="700" height="320" />
 
 - 📝 [Here is my Curriculum Vitae](/Youssef_belhadj_CV.pdf)
 - 💼 Any freelance work? Do reach, [email](mailto:usf.belhadj@gmail.com) :)
@@ -34,15 +34,19 @@ Hi, I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj-5393631a0/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=usfbelhadj&show_icons=true&theme=gotham" alt="usfbelhadj" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=usfbelhadj&show_icons=true&theme=gotham" alt="usfbelhadj" />
 
 # 📊 What I'm using
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usfbelhadj&layout=compact" alt="usfbelhadj" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usfbelhadj&layout=compact" alt="usfbelhadj" />
 
 
 
