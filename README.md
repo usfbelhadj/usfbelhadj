@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj-5393631a0/), Full Stack Web Developer at Holberton School and a freelance software engineer from Tunis.
+Hi, I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj/), Full Stack Web Developer at Holberton School and a freelance software engineer from Tunis.
 <br/>
 <a href="https://twitter.com/Youssef35969631">
   <img align="left" alt="Youssef Belhadj | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/youssef-belhadj-5393631a0/">
+<a href="https://www.linkedin.com/in/youssef-belhadj/">
   <img align="left" alt="Youssef Belhadj LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
