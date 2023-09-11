@@ -1,52 +1,34 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- Introduction -->
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj/), a Full Stack Web Developer at Holberton School and a freelance software engineer based in Tunis.
 
-Hi, I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj/), Full Stack Web Developer at Holberton School and a freelance software engineer from Tunis.
-<br/>
-<a href="https://twitter.com/Youssef35969631">
-  <img align="left" alt="Youssef Belhadj | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/youssef-belhadj/">
-  <img align="left" alt="Youssef Belhadj LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Twitter](https://img.shields.io/badge/-Youssef%20Belhadj-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Youssef35969631)
+[![LinkedIn](https://img.shields.io/badge/-Youssef%20Belhadj-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-belhadj/)
 
-<br/>
+<!-- About Me -->
+### About Me
 
-  <img align="right" alt="GIF" src="img/code.gif" width="500" height="320" />
+- 📝 [Curriculum Vitae](/Youssef_belhadj_CV.pdf)
+- 💼 Open to freelance opportunities, [email me](mailto:usf.belhadj@gmail.com) 😊
+- 💬 Feel free to reach out if you have any questions or need assistance.
 
-- 📝 [Here is my Curriculum Vitae](/Youssef_belhadj_CV.pdf)
-- 💼 Any freelance work? Do reach, [email](mailto:usf.belhadj@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+<!-- Technologies -->
+### Languages and Tools
 
-
-**Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- Add more as needed -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- GitHub Stats -->
+### GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usfbelhadj&show_icons=true&theme=gotham)
 
-## 📈 My GitHub Stats
+<!-- Most Used Languages -->
+### Most Used Languages
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=usfbelhadj&show_icons=true&theme=gotham" alt="usfbelhadj" />
-
-# 📊 What I'm using
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usfbelhadj&layout=compact" alt="usfbelhadj" />
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usfbelhadj&layout=compact)
