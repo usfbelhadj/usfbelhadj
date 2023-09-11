@@ -1,7 +1,7 @@
 <!-- Introduction -->
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj/), a Full Stack Web Developer with a strong passion for Mobile app development using Flutter and software development. Currently, I'm pursuing my career at Holberton School Tunis and working as a freelance software engineer based in Tunis.
+I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj/), a Flutter Developer and Full Stack Web Developer with a strong passion for Mobile app development using Flutter and software development. Currently, I'm pursuing my career at Holberton School Tunis and working as a freelance software engineer based in Tunis.
 
 [![Twitter](https://img.shields.io/badge/-Youssef%20Belhadj-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Youssef35969631)
 [![LinkedIn](https://img.shields.io/badge/-Youssef%20Belhadj-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-belhadj/)
@@ -18,9 +18,10 @@ I'm [Youssef Belhadj](https://www.linkedin.com/in/youssef-belhadj/), a Full Stac
 
 Here are some of the skills I have developed over my career:
 
+- Dart/Flutter
+- GetX
 - Responsive Web Design
 - Python
-- Dart/Flutter
 - JavaScript/React JS
 - Java
 - Bash
